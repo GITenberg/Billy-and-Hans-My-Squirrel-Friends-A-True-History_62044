@@ -1,0 +1,27 @@
+_repo: Billy-and-Hans-My-Squirrel-Friends-A-True-History_62044
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stillman, William James
+    alias: Stillman, W. J. (William James)
+    birthdate: 1828
+    deathdate: 1901
+    gutenberg_agent_id: '4020'
+    url: http://www.gutenberg.org/2009/agents/4020
+    wikipedia: https://en.wikipedia.org/wiki/William_James_Stillman
+description: ''
+gutenberg_issued: '2020-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62044'
+  lccn: '15005460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Squirrels'
+- !lcc 'QL'
+- GITenberg
+title: 'Billy and Hans, My Squirrel Friends: A True History'
+url: http://www.gutenberg.org/ebooks/62044
